@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey, I'm Taransh 👋
 
-<!--
-**TaranshG/TaranshG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Co-op student at McMaster University who enjoys building and shipping useful software.
 
-Here are some ideas to get you started:
+### 🚀 What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[EasyDen](https://easyden.app)** — A roommate coordination app for chores, groceries, expenses, and shared-home life.
+- Built with React Native, Expo, TypeScript, Supabase, and PostgreSQL.
+- Implemented offline synchronization, authentication, multi-tenant data isolation, and automated testing.
+
+**[BreakChime](https://breakchime.vercel.app)** — A Chrome extension that reminds you to take screen breaks.
+- Built using JavaScript, Chrome Extension APIs, service workers, and persistent storage.
+- Published on the Chrome Web Store with hundreds of downloads.
+
+### 🛠 Tech I work with
+
+TypeScript · JavaScript · Java · React Native · React · Node.js · PostgreSQL · Supabase · Jest
+
+### 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/taransh-goyal) · [GitHub](https://github.com/TaranshG)
+
+Interested in software engineering, product engineering, and Summer 2027 internships.
