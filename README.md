@@ -18,6 +18,6 @@ TypeScript · JavaScript · Java · React Native · React · Node.js · PostgreS
 
 ### 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/taransh-goyal) · [GitHub](https://github.com/TaranshG)
+[LinkedIn](https://linkedin.com/in/taransh-goyal) · [GitHub](https://github.com/TaranshG) · [Email](taransh.goyal@gmail.com) 
 
 Interested in software engineering, product engineering, and Summer 2027 internships.
